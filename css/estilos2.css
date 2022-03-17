@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+
+:root{
+    --background: linear-gradient(135deg, #002fff7e 0%, #db0f0f98 100%);
+    --color-primary:#1235cf;
+    --color-secondary:#a86309;
+    --boton-padding: 20px 40px;
+}
+
+*{
+    font-family: 'Oswald', sans-serif;
+}
+
+body{
+    background-image: var(--background);
+    text-align: center;
+}
